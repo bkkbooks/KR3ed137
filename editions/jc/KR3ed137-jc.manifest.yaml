@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR3ed137/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed137/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 應急良方
+  identifiers:
+    krp: KR3ed137
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed137.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed137_000-jc.yaml, hash: 'sha256:872d185ce5957169d141f9a2e556c06e2ec9b6ad3d683de3c4169d4783653b91'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed137_000-jc.markers.yaml, hash: 'sha256:c65cbc8480073106aa2198c0519573e397d28a023e7abf4881f7a96560400cb3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed137_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 3736
+  label: 通用
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed137_jc_000-d3.h1s1
+    span:
+    - body
+    - 3736
+    - 4204
+  label: 婦人
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed137_jc_000-d4.h1s1
+    span:
+    - body
+    - 4204
+    - 4880
+  label: 小兒
+  type: section
+  level: 1
+hash: sha256:fb2249058ed24ad792208195ca98a36307152f2a0b0258408da603918752314e
