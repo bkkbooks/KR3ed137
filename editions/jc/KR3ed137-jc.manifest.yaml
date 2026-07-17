@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed137_000-jc.yaml, hash: 'sha256:872d185ce5957169d141f9a2e556c06e2ec9b6ad3d683de3c4169d4783653b91'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed137_000-jc.markers.yaml, hash: 'sha256:c65cbc8480073106aa2198c0519573e397d28a023e7abf4881f7a96560400cb3'}
+  - {seq: 0, role: markers, filename: assets/KR3ed137_000-jc.markers.yaml, hash: 'sha256:1c8f73523ff452a472c8ba8e6aeade48b8263474e9dfce2e54f270af0cbbc6ee'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 小兒
   type: section
   level: 1
-hash: sha256:fb2249058ed24ad792208195ca98a36307152f2a0b0258408da603918752314e
+hash: sha256:ac5eecdc95500c7c6d92c6a78dccde01ac00730652c3b1ee75d9a851c4c6c0ab
